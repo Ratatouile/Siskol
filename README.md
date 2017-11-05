@@ -1,0 +1,2 @@
+# Siskol
+Sistem Informasi Sekolah
